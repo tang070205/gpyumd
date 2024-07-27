@@ -13,6 +13,5 @@ setup(name='gpyumd',
       install_requires=['matplotlib',
                         'pyfftw',
                         'scipy',
-                        'ase>=3.20.1',
-                        'atomman==1.2.3'],
+                        'ase>=3.20.1'],
       )
