@@ -2,6 +2,7 @@ matplotlib
 pyfftw
 scipy
 numpy
+atomman
 ase>=3.20.1
 pandas
 nbsphinx
