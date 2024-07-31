@@ -8,3 +8,4 @@ Note: This code extends that in the [thermo](https://github.com/AlexGabourie/the
 The documentation for each of the modules, along with several examples, can be found here:
 
 https://gpyumd.readthedocs.io/
+pip install git+https://github.com/tang070205/gpyumd.git
